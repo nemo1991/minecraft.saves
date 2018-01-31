@@ -629,11 +629,13 @@
       "magma_cube": "2018-01-20 10:15:10 +0800",
       "slime": "2018-01-21 15:29:32 +0800",
       "skeleton": "2018-01-20 11:36:38 +0800",
+      "husk": "2018-01-30 19:36:00 +0800",
       "blaze": "2018-01-20 10:20:01 +0800",
       "zombie": "2018-01-20 12:32:26 +0800",
       "cave_spider": "2018-01-21 15:15:08 +0800",
       "silverfish": "2018-01-27 16:11:32 +0800",
       "witch": "2018-01-23 23:25:08 +0800",
+      "guardian": "2018-01-30 22:25:37 +0800",
       "ghast": "2018-01-20 09:48:39 +0800",
       "spider": "2018-01-21 09:13:14 +0800",
       "creeper": "2018-01-20 18:04:10 +0800",
@@ -776,6 +778,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2018-01-23 12:24:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2018-01-31 22:31:05 +0800"
     },
     "done": true
   },
@@ -947,6 +955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2018-01-30 22:26:59 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2018-01-23 12:24:10 +0800"
@@ -1049,6 +1063,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2018-01-30 22:25:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2018-01-20 09:03:34 +0800"
@@ -1091,6 +1111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2018-01-31 22:30:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2018-01-21 01:29:03 +0800"
@@ -1101,6 +1127,7 @@
     "criteria": {
       "ice_flats": "2018-01-27 16:00:02 +0800",
       "frozen_river": "2018-01-27 16:00:07 +0800",
+      "taiga_cold_hills": "2018-01-30 21:17:43 +0800",
       "forest": "2018-01-20 09:03:58 +0800",
       "mushroom_island_shore": "2018-01-30 12:59:55 +0800",
       "birch_forest": "2018-01-21 13:52:46 +0800",
@@ -1112,6 +1139,7 @@
       "forest_hills": "2018-01-20 09:03:37 +0800",
       "plains": "2018-01-20 09:07:16 +0800",
       "savanna": "2018-01-21 13:34:49 +0800",
+      "savanna_rock": "2018-01-30 19:40:31 +0800",
       "ice_mountains": "2018-01-27 15:59:34 +0800",
       "taiga": "2018-01-21 14:11:05 +0800",
       "taiga_hills": "2018-01-21 14:11:09 +0800",
@@ -1179,6 +1207,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2018-01-20 15:54:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2018-01-31 22:31:05 +0800"
     },
     "done": true
   },
@@ -1314,6 +1348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2018-01-30 22:25:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2018-01-20 17:12:54 +0800"
@@ -1410,6 +1450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2018-01-31 22:30:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2018-01-20 09:06:25 +0800"
@@ -1443,6 +1489,12 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2018-01-30 12:57:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2018-01-30 22:25:18 +0800"
     },
     "done": true
   },
@@ -1497,6 +1549,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-01-28 16:10:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2018-01-31 22:31:36 +0800"
     },
     "done": true
   },
@@ -1574,6 +1632,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2018-01-30 21:11:21 +0800",
       "cooked_beef": "2018-01-22 20:49:40 +0800",
       "apple": "2018-01-28 09:37:29 +0800",
       "golden_apple": "2018-01-28 11:06:13 +0800",
@@ -1615,6 +1674,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-01-20 17:54:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2018-01-31 22:31:36 +0800"
     },
     "done": true
   },
@@ -1957,6 +2022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2018-01-31 22:30:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-01-21 01:16:58 +0800"
@@ -1966,6 +2037,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_gold_nugget": "2018-01-28 17:24:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2018-01-31 22:31:05 +0800"
     },
     "done": true
   },
@@ -2110,6 +2187,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2018-01-21 09:58:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2018-01-31 22:31:36 +0800"
     },
     "done": true
   },
