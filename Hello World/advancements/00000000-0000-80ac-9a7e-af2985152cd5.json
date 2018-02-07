@@ -968,6 +968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2018-02-07 12:59:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2018-01-23 12:24:10 +0800"
@@ -1158,6 +1164,7 @@
       "roofed_forest": "2018-01-21 11:56:16 +0800",
       "cold_beach": "2018-01-27 15:59:00 +0800",
       "river": "2018-01-20 16:02:17 +0800",
+      "jungle": "2018-02-07 12:58:43 +0800",
       "desert": "2018-01-21 13:36:35 +0800",
       "stone_beach": "2018-01-21 13:26:10 +0800"
     },
@@ -1358,6 +1365,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2018-01-30 22:25:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2018-02-07 12:59:57 +0800"
     },
     "done": true
   },
