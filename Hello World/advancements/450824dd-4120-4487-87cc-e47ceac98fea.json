@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2018-02-14 21:21:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2018-01-12 23:47:39 +0800"
@@ -783,6 +789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2018-02-14 17:51:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2018-01-12 23:47:39 +0800"
@@ -810,6 +822,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2018-01-12 13:31:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2018-02-14 18:00:40 +0800"
     },
     "done": true
   },
@@ -974,6 +992,7 @@
       "zombie_pigman": "2018-01-14 02:10:59 +0800",
       "zombie_villager": "2018-01-13 09:56:33 +0800",
       "magma_cube": "2018-01-14 02:43:06 +0800",
+      "slime": "2018-02-14 17:42:19 +0800",
       "skeleton": "2018-01-12 22:25:59 +0800",
       "husk": "2018-01-17 20:49:43 +0800",
       "zombie": "2018-01-12 12:49:28 +0800",
@@ -1090,6 +1109,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_gold_nugget": "2018-01-14 02:41:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2018-02-14 18:00:45 +0800"
     },
     "done": true
   },
@@ -1252,6 +1277,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2018-01-12 23:47:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2018-02-14 18:00:45 +0800"
     },
     "done": true
   },
@@ -1507,6 +1538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2018-02-14 18:00:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2018-01-12 12:32:46 +0800"
@@ -1552,6 +1589,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2018-01-12 22:56:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2018-02-14 21:06:43 +0800"
     },
     "done": true
   },
@@ -1783,6 +1826,7 @@
       "frozen_river": "2018-01-17 13:31:09 +0800",
       "forest": "2018-01-12 12:30:39 +0800",
       "swampland": "2018-01-16 22:04:12 +0800",
+      "birch_forest": "2018-02-14 22:53:00 +0800",
       "deep_ocean": "2018-01-17 13:19:55 +0800",
       "beaches": "2018-01-13 09:04:46 +0800",
       "extreme_hills_with_trees": "2018-01-16 23:31:19 +0800",
@@ -1791,9 +1835,12 @@
       "plains": "2018-01-12 12:40:23 +0800",
       "savanna": "2018-01-17 20:10:08 +0800",
       "ice_mountains": "2018-01-17 13:29:51 +0800",
+      "taiga": "2018-02-14 23:14:30 +0800",
+      "birch_forest_hills": "2018-02-14 22:58:43 +0800",
       "taiga_cold": "2018-01-17 19:56:58 +0800",
       "ocean": "2018-01-14 15:30:06 +0800",
       "extreme_hills": "2018-01-13 09:03:10 +0800",
+      "roofed_forest": "2018-02-14 23:07:55 +0800",
       "cold_beach": "2018-01-17 13:27:37 +0800",
       "river": "2018-01-12 12:40:06 +0800",
       "desert": "2018-01-17 20:03:41 +0800"
@@ -1872,9 +1919,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2018-02-14 18:00:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2018-01-12 12:34:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2018-02-14 18:00:40 +0800"
     },
     "done": true
   },
@@ -2118,6 +2177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2018-02-14 21:12:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2018-01-15 23:34:13 +0800"
@@ -2223,6 +2288,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-01-14 12:23:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2018-02-14 17:44:27 +0800"
     },
     "done": true
   },
